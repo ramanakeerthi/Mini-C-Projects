@@ -18,8 +18,3 @@ int main() {
 			exit(0);
 	}
 }
-
-bool check_if_file_exists() {
-	ifstream ifs; 
-	ifs.
-}
